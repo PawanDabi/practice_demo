@@ -12,3 +12,4 @@ p.display_firstname()
 
 print("this is the last one")   
 print("this is another method")
+print("this is for main demo")
