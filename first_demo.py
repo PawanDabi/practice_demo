@@ -11,3 +11,4 @@ p=Person("pawan ", "dabi")
 p.display_firstname()    
 
 print("this is the last one")   
+print("this is another method")
